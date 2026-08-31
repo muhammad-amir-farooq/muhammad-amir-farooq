@@ -24,24 +24,28 @@
   
   > The research repository, dataset, experiment code, model checkpoints, and manuscript materials are currently private while the work is under academic review.
   
-  ## Technical Skills
+    ## Technical Skills
   
-  **Programming:** Python, JavaScript, HTML, MATLAB
-  **Machine Learning and Data:** PyTorch, TensorFlow, Hugging Face Transformers, Pandas, NumPy, OpenCV
-  **Tools:** Jupyter Notebook, Google Colab, Git, GitHub
-  **Research Areas:** Deep Learning, Multimodal Learning, Computer Vision, NLP, Contrastive Learning, Image-Text Retrieval, Dual Encoders, Self-Attention
-  **Models and Objectives:** ResNeXt50, ResNet, EfficientNet, BERT, RoBERTa, DistilBERT, DeBERTa, InfoNCE, CMPC, CMCE, Triplet Loss
+  * **Programming:** Python, JavaScript, HTML, MATLAB
+  * **Machine Learning and Data:** PyTorch, TensorFlow, Hugging Face Transformers, Pandas, NumPy, OpenCV
+  * **Tools:** Jupyter Notebook, Google Colab, Git, GitHub
+  * **Research Areas:** Deep Learning, Multimodal Learning, Computer Vision, NLP, Contrastive Learning, Image-Text Retrieval, Dual Encoders, Self-Attention
+  * **Models and Objectives:** ResNeXt50, ResNet, EfficientNet, BERT, RoBERTa, DistilBERT, DeBERTa, InfoNCE, CMPC, CMCE, Triplet Loss
   
   ## Education
   
-  * **Master of Engineering in Engineering and Technology**
-    Panyapiwat Institute of Management, Thailand
-    February 2025 – February 2027 (Expected) | Current GPAX: 4.00/4.00
+  ### Master of Engineering in Engineering and Technology
   
-  * **Bachelor of Science in Telecommunication Systems**
-    Bahauddin Zakariya University, Pakistan
-    September 2020 – September 2024 | CGPA: 3.39/4.00
+  **Panyapiwat Institute of Management, Thailand**
+  February 2025 – February 2027 (Expected)
+  Current GPAX: **4.00/4.00**
   
+  ### Bachelor of Science in Telecommunication Systems
+  
+  **Bahauddin Zakariya University, Pakistan**
+  September 2020 – September 2024
+  CGPA: **3.39/4.00**
+
   ## Professional Interests
   
   I am interested in graduate and entry-level opportunities in:
