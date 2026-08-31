@@ -11,7 +11,7 @@
   * Designed an individual multimodal research project using dual-encoder neural networks.
   * Developed and evaluated image-to-text and text-to-image retrieval approaches.
   * Conducted more than 50 controlled experiments across image encoders, text encoders, attention mechanisms, loss functions, and hyperparameters.
-  * Evaluated approximately 700 image-caption pairs across `seq_01–seq_46`.
+  * Evaluated 810 image-caption pairs across seq_01–seq_54.
   * Achieved the best performance with configuration **E53B**:
   
     * Average retrieval performance: **0.8617**
